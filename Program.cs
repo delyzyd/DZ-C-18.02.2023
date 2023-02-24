@@ -78,11 +78,11 @@ int num = ReadInt("Введите число N: ");
 
 for (int j = 1; j <= num; j++)
 { 
-    Console.Write($"{j*j*j} ");
+    System.Console.WriteLine($"{j*j*j} ");
 }
 
 int ReadInt(string message)
 {
-    Console.Write(message);
+    System.Console.WriteLine(message);
     return Convert.ToInt32(Console.ReadLine());
 }
