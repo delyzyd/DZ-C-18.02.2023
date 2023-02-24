@@ -1,0 +1,15 @@
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\dz sem003.csproj.AssemblyReference.cache
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\dz sem003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\dz sem003.AssemblyInfoInputs.cache
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\dz sem003.AssemblyInfo.cs
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\dz sem003.csproj.CoreCompileInputs.cache
+C:\Учеба\sharp\dz sem003\bin\Debug\net6.0\dz sem003.exe
+C:\Учеба\sharp\dz sem003\bin\Debug\net6.0\dz sem003.deps.json
+C:\Учеба\sharp\dz sem003\bin\Debug\net6.0\dz sem003.runtimeconfig.json
+C:\Учеба\sharp\dz sem003\bin\Debug\net6.0\dz sem003.dll
+C:\Учеба\sharp\dz sem003\bin\Debug\net6.0\dz sem003.pdb
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\dz sem003.dll
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\refint\dz sem003.dll
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\dz sem003.pdb
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\dz sem003.genruntimeconfig.cache
+C:\Учеба\sharp\dz sem003\obj\Debug\net6.0\ref\dz sem003.dll
